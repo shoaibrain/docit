@@ -1,0 +1,30 @@
+= Documentation Tool
+
+This documentation tool is based on AsciiDoc, a lightweight markup language for authoring documentation.
+
+== Getting Started
+
+To use this tool, follow these steps:
+
+1. Clone the repository:
+
+   [source,shell]
+   ----
+   $ git clone https://github.com/your-repo.git
+   ----
+
+
+== Features
+
+- Easy-to-use and lightweight AsciiDoc syntax for writing documentation.
+- Automatic generation of HTML output for easy viewing in any web browser.
+- Customizable styles and themes to suit your documentation needs.
+
+
+== License
+
+This documentation tool is released under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+== Contact
+
+If you have any questions or need support, feel free to contact the project maintainer at your-email@example.com
